@@ -6,7 +6,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 
 - Office hours vary by individual and are captured here.
   - Richard Guthrie - 7AM-3PM PST TimeZone Monday-Friday
-  - Hattan Shobokshi - 8AM 4PM PST TimeZone Monday-Friday
+  - Hattan Shobokshi - 8AM-4PM PST TimeZone Monday-Friday
 - No meetings scheduled outside of agreed working hours.  We will agree on a daily standup time
 - No expectations to reply to messages or review PRs outside office hours
 - No expectations to work late in the night or over the weekend
