@@ -6,6 +6,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 
 - Office hours vary by individual and are captured here.
   - Richard Guthrie - 7AM-3PM PST TimeZone Monday-Friday
+  - Brent Samodien  - 8AM-5PM PST TimeZone Monday-Thursday , 8AM-12PM Friday PST TimeZone
 - No meetings scheduled outside of agreed working hours.  We will agree on a daily standup time
 - No expectations to reply to messages or review PRs outside office hours
 - No expectations to work late in the night or over the weekend
@@ -70,4 +71,4 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 - If you are not available to work on tasks related to the project, this should be reflected in the availability for the sprint
 - Create a PR for each completed task if appropriate
 - Update README along the way
-- Pair programing, so when someone is not available, the team is not blocked, it doesn't have to be 1 MS and 1 D3, it could be 2 MS or 2 D3 as well.
+- Pair programing, so when someone is not available, the team is not blocked, it doesn't have to be 1 MS and 1 Customer, it could be 2 MS or 2 Customer as well or 2 MS in the case of internal projects.
