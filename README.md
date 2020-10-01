@@ -8,6 +8,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
   - Richard Guthrie - 7AM-3PM PST TimeZone Monday-Friday
   - Brent Samodien  - 8AM-5PM PST TimeZone Monday-Thursday , 8AM-12PM Friday PST TimeZone
   - Hattan Shobokshi - 8AM-4PM PST TimeZone Monday-Friday
+  - Hadwa Gaber - 9AM-5PM PST TimeZone Monday-Friday.
 - No meetings scheduled outside of agreed working hours.  We will agree on a daily standup time
 - No expectations to reply to messages or review PRs outside office hours
 - No expectations to work late in the night or over the weekend
