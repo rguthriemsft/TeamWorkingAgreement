@@ -16,12 +16,20 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 - No expectations to work late in the night or over the weekend
 - Be respectful of timezones and team members' working schedule
 
-## Sprint Week
+## Meeting Schedule
+
+| Day of Week 	| Time 	| Topic 	|
+|-------------	|------	|-------	|
+| Monday      	| 9:00-10:00 AM PST     	| Demos, Retrospective and Sprint Planning      	|
+| Tuesday       | 9:30-10:00 AM PST     	| Design review and costing      	|
+| Wednesday     | 9:30-10:00 AM PST     	| Execution      	|
+| Thursday      | 9:30-10:00 AM PST     	| Execution      	|
+| Friday        | N/A    	|  No meeting Friday    	|
+
+## Sprint Week and meeting schedule
 
 - The sprint starts on Mondays and Ends on Fridays
-- Demos, Retrospective and Sprint Planning occur Mondays  
-- Tuesdays are design review and costing  
-- Daily standup will be Mon-Thurs
+- Daily standup will be Mon-Thurs 
 - Friday we will close out work items and use this time to upskill or growth projects
 
 ## Meetings
