@@ -10,6 +10,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
   - Hattan Shobokshi - 8AM-4PM PST TimeZone Monday-Friday
   - Dariusz Porowski - 9AM-5PM CEST / 12AM-8AM PDT (Tuesdays, Thursday) | 12PM-8PM CEST / 3AM-11AM PDT (Monday, Wednesday, Friday)
   - Hadwa Gaber - 9AM-5PM PST TimeZone Monday-Friday.
+  - Engin Polat - 9AM-5PM CET (12AM-8AM PST) Monday-Friday
 - No meetings scheduled outside of agreed working hours.  We will agree on a daily standup time
 - No expectations to reply to messages or review PRs outside office hours
 - No expectations to work late in the night or over the weekend
