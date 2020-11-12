@@ -93,7 +93,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 
 - **Self improvement**
 
-  All the team members, sees the projects both as challenges and self-improvement opportunities. Takes every ooportunity to improve themselves.
+  All the team members, sees the projects both as challenges and self-improvement opportunities. Takes every opportunity to improve themselves.
 
 - **Ownership**
 
