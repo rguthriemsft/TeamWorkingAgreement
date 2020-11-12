@@ -132,6 +132,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
   All the team members sees failures as "improvement opportunities", things may break! Noone blames noone.
 
 - **Focus**
+
   All the team members focus on "why" and "how" first before "what" as it leads to better solutions. We will understand the problem well, start with the customer and then come up with a solution.
 
 - **Innovation**
