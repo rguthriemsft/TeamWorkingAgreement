@@ -117,7 +117,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 
 - **Scale**
 
-  All the team members create solutions scaling in mind. All the code developed is always globally scalable.
+  All the team members create solutions with scaling in mind. All the code developed is always globally scalable.
 
 - **Community**
 
