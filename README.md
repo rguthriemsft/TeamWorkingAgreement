@@ -129,7 +129,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 
 - **Failure**
 
-  All the team members sees failures as "improvement opportunities", things may break! Noone blames noone.
+  All the team members sees failures as "improvement opportunities", things may break! We observe a no shame poilcy. We don't point fingers in blame.
 
 - **Focus**
 
