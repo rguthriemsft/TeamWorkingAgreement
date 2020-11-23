@@ -137,7 +137,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 
 - **Innovation**
 
-  All the team members approach to problems innovative ways.
+  All the team members approach problems in innovative ways.
 
 - **Communication**
 
