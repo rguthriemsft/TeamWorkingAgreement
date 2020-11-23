@@ -125,7 +125,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 
 - **Data first**
 
-  All the team members collect data first, aggragate the data and use it, when they need to have a decision.
+  All the team members collect data first, aggragate the data and use it, when they need to make a decision.
 
 - **Failure**
 
