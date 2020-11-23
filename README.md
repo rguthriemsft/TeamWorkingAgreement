@@ -101,7 +101,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 
 - **Responsibility**
 
-  All the team members manage their owntime, Work/Life balance is important for us.
+  All the team members manage their own time, Work/Life balance is important for us.
 
 - **Team work**
 
