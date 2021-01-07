@@ -5,7 +5,7 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 ## Working hours
 
 - Office hours vary by individual and are captured here.
-  - Richard Guthrie - 7AM-4:30PM PST TimeZone Monday-Friday.  I will be unavailable 10:30AM-12:00pm daily performing my second job as a parent teacher for 3rd grade math/history.
+  - Richard Guthrie - 8:00AM-5:00PM PST TimeZone Monday-Friday.  I will be unavailable 10:30AM-12:00pm daily performing my second job as a parent teacher for 3rd grade math/history.
   - Brent Samodien  - 8AM-5PM PST TimeZone Monday-Thursday , 8AM-12PM Friday PST TimeZone
   - Hattan Shobokshi - 8AM-4PM PST TimeZone Monday-Friday
   - Dariusz Porowski - 9AM-5PM CET / 12AM-8AM PST (Tuesdays, Thursday) | 12PM-8PM CET / 3AM-11AM PST (Monday, Wednesday, Friday)
