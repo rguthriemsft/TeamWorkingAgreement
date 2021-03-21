@@ -84,3 +84,68 @@ We are all one team. We all discuss and make decisions that impact us all as a t
 - Create a PR for each completed task if appropriate
 - Update README along the way
 - Pair programming, so when someone is not available, the team is not blocked, it doesn't have to be 1 MS and 1 Customer, it could be 2 MS or 2 Customer as well or 2 MS in the case of internal projects.
+
+## Engineering Manifesto
+
+- **Customer obsession**
+
+  All the team members obsessed with our customers and projects we're working on. Everything we do is aimed at meeting their expectations.
+
+- **Self improvement**
+
+  All the team members, sees the projects both as challenges and self-improvement opportunities. Takes every opportunity to improve themselves.
+
+- **Ownership**
+
+  All the team members fully own the project, the product we build, technologies we chose, tasks we have, full lifecycle of the project (dev, test, deploy, etc.)
+
+- **Responsibility**
+
+  All the team members manage their own time, Work/Life balance is important for us.
+
+- **Team work**
+
+  All the team members know that `Team is different than a group of people` They're act as a team, either in success and even in failure.
+
+- **Quality**
+
+  All the team members develop high quality code. We use code-reviews, automated tests and other measures to improve and maintain quality of our work.
+
+- **Collaboration**
+
+  All the team members strongly support pair programming, live coding, screen share, etc.
+
+- **Scale**
+
+  All the team members create solutions with scaling in mind. All the code developed is always globally scalable.
+
+- **Community**
+
+  All the team members support open source projects, give back to community when opportunity comes and care for others.
+
+- **Data first**
+
+  All the team members collect data first, aggragate the data and use it, when they need to make a decision.
+
+- **Failure**
+
+  All the team members sees failures as "improvement opportunities", things may break! We observe a no shame poilcy. We don't point fingers in blame.
+
+- **Focus**
+
+  All the team members focus on "why" and "how" first before "what" as it leads to better solutions. We will understand the problem well, start with the customer and then come up with a solution.
+
+- **Innovation**
+
+  All the team members approach problems in innovative ways.
+
+- **Communication**
+
+  All the team members value communication and transparency. They're always be transparent, eager to take and give feedbacks in a positive and constructive tone.
+
+## References
+
+- https://sites.google.com/a/jezhumble.net/devops-manifesto/
+- https://criticalengineering.org/
+- https://iyzico.engineering/iyzico-software-engineering-manifesto-933ea2196151
+- https://medium.com/joveo-engineering/our-engineering-manifesto-fd1a7ce77ae2
